@@ -112,6 +112,7 @@ i{
     background-color: #FFC420;
     font-weight: bold;
     border: 2px solid transparent;
+    font-size: 17px;
 }
 
 .banner-text button:hover{
